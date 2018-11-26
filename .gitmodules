@@ -1,0 +1,9 @@
+[submodule "rkmh"]
+	path = rkmh
+	url = ./rkmh/
+[submodule "DWGSIM"]
+	path = DWGSIM
+	url = ./DWGSIM
+[submodule "simple_mutator"]
+	path = simple_mutator
+	url = ./simple_mutator/
