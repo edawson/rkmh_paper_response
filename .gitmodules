@@ -1,9 +1,9 @@
 [submodule "rkmh"]
 	path = rkmh
-	url = ./rkmh/
+	url = https://github.com/edawson/rkmh
 [submodule "DWGSIM"]
 	path = DWGSIM
-	url = ./DWGSIM
+	url = https://github.com/nh13/DWGSIM
 [submodule "simple_mutator"]
 	path = simple_mutator
-	url = ./simple_mutator/
+	url = https://github.com/edawson/simple_mutator
